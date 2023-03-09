@@ -1,4 +1,4 @@
-# hello-dotnet
-Hello World .Net
+# hello-aspdotnet
+Hello World ASP.Net
 
 dotnet build
